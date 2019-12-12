@@ -2,3 +2,5 @@
 node_modules
 unsplash.js
 keys.js
+config.js
+bundle.js
